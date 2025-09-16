@@ -4,6 +4,8 @@
 </h3>
 
 Créer un bot
+
+
 ```
 ･ Rendez-vous sur le site : https://discord.com/developers/applications
 ･ Cliquez sur "Nouvelle Application"
